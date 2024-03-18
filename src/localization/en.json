@@ -1,0 +1,37 @@
+{
+  "common": {
+    "warning": "Warning"
+  },
+  "signIn": {
+    "title": "Sign in",
+    "desc": "Please sign in to continue",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotYourPassword": "Forgot your password?",
+    "signIn": "SIGN IN",
+    "dontHaveAccount": "Don't have an account?",
+    "signUp": "SIGN UP",
+    "loginFail": "Login failed"
+  },
+  "home": {
+    "title": "Home",
+    "desc": "Welcome to the home page"
+  },
+  "market": {
+    "title": "Markets",
+    "desc": "Welcome to the market page"
+  },
+  "wallet": {
+    "title": "Wallets",
+    "desc": "Welcome to the wallet page"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "desc": "Welcome to the portfolio page"
+  },
+  "more": {
+    "title": "More",
+    "desc": "Welcome to the more page"
+  }
+}
